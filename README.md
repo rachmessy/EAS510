@@ -5,7 +5,7 @@ To set up environment:
   conda env create -f environment.yml
 
 To download data:
-run the notebook in src/models/fetch_data.ipynb
+- run the notebook in src/models/fetch_data.ipynb
 
 
 
